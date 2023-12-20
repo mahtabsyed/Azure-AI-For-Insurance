@@ -1,0 +1,4 @@
+ipykernel
+python-dotenv
+openai
+azure-ai-formrecognizer==3.3.0
